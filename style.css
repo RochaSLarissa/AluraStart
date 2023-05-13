@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
 .cabeçalho{
     background-color: white;
     color: #232538;
@@ -45,4 +49,16 @@
 
 .escola-texto{
     padding: 15px 0;
+}
+
+.estudante-imgI{
+    width: 120PX;
+}
+
+.estudante-icone{
+    width: 24px;
+}
+
+.estudante-div{
+    text-align: center;
 }

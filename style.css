@@ -51,6 +51,10 @@ body{
     padding: 15px 0;
 }
 
+.estudante{
+    background-color: #FFE382;
+}
+
 .estudante-imgI{
     width: 120PX;
 }
@@ -61,4 +65,30 @@ body{
 
 .estudante-div{
     text-align: center;
+    padding: 70px 0;
+    margin: 15px;
+}
+
+.estudante-título{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.estudante-icone{
+    padding: 12px 0;
+}
+
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 16% 17% 16% 17% 16% 17%;
+}
+
+.rodapé{
+    background-color: #232538;
+    text-align: center;
+}
+
+.rodapé-img{
+    height: 60px;
+    padding: 12px 0;
 }
